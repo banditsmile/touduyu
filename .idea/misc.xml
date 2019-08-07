@@ -3,15 +3,10 @@
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />
   </component>
-  <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
   <component name="PhpUnit">
     <phpunit_settings>
       <PhpUnitSettings />
       <phpunit_by_interpreter interpreter_id="fcde303e-007d-4b3e-836f-5567e11a9924" interpreter_name="Remote PHP 5.5" />
     </phpunit_settings>
-  </component>
-  <component name="VagrantProjectSettings">
-    <option name="instanceFolder" value="$PROJECT_DIR$/../../.." />
-    <option name="provider" value="" />
   </component>
 </project>
